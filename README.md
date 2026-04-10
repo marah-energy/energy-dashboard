@@ -1,15 +1,24 @@
-# Interactive Energy Demand Dashboard
+# ⚡ Interactive Energy Demand Dashboard
+
 This project is an interactive dashboard built with streamlit to analyze electricity demand over time.
 
-## Features
+## 📊 Features
 -Explore energy demand by year
--Interactive time series visualization 
+
+-Interactive time series visualization
+
 -Comparison between actual and forecasted load
-### Technologies
+
+### 🛠 Technologies
+
 -Python
+
 -Pandas
+
 -Streamlit
-#### How to run
+
+#### ▶ How to run
+
 ```bash 
 streamlit run app.py
 ```
